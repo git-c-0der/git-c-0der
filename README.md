@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/77848178/163581892-66cd3774-6ed8-47f4-ae71-6b5efaedf5e3.png)
+
 ### Hi! I'm Abhishek Maurya
 <hr>
 I dropped out from the MNNIT Allahabad where my branch was Computer Science and pursued my graduation from Delhi University in Mathematics.
