@@ -3,8 +3,7 @@
 <h2 align='center'>Hi! 🙏 I'm Abhishek Maurya</h2>
 <h3 align='center'>Data Science | Deep Learning Student</h3>
 <hr>
-I dropped out from the MNNIT Allahabad where my branch was Computer Science and pursued my graduation from Delhi University in Mathematics.
-I am really looking forward to build my career in the field of Data Science especially in the Computer Vision field as this is the one field which excites me a lot from it's capabilities to perform object detection and style transfer to GAN's. I like to work on projects which provide me a lot of learning experience along with some fun😉.
+I have completed my graduation from Delhi University in Mathematics. I am looking forward to build my career in the field of Data Science especially in the Computer Vision field as this is the one field which excites me a lot from it's capabilities to perform object detection and style transfer to GAN's. I like to work on projects which provide me a lot of learning experience along with some fun😉.
 
 
 - 🌱 I’m currently learning GAN.
